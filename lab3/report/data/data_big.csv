@@ -1,0 +1,6 @@
+input_data,num_vertices,avg_cycle_weight,min_cycle_weight
+data_big\xit1083.tsp,1083,4079,4073
+data_big\icw1483.tsp,1483,5067,4944
+data_big\djc1785.tsp,1785,7054,6917
+data_big\dcb2086.tsp,2086,7587,7447
+data_big\pds2566.tsp,2566,8889,8741

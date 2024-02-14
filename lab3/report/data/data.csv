@@ -1,0 +1,11 @@
+input_data,num_vertices,avg_cycle_weight,min_cycle_weight
+data\xqf131.tsp,131,629,599
+data\xqg237.tsp,237,1126,1102
+data\pma343.tsp,343,1522,1482
+data\pka379.tsp,379,1480,1442
+data\bcl380.tsp,380,1839,1788
+data\pbl395.tsp,395,1467,1428
+data\pbk411.tsp,411,1518,1474
+data\pbn423.tsp,423,1561,1544
+data\pbm436.tsp,436,1630,1588
+data\xql662.tsp,662,2847,2818
