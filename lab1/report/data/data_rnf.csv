@@ -1,0 +1,16 @@
+input_data,num_vertices,mst_weight,avg_cycle_weight,min_cycle_weight,avg_improvements
+data\xqf131.tsp,131,474,720,669,1
+data\xqg237.tsp,237,897,1434,1330,2
+data\pma343.tsp,343,1179,1884,1806,2
+data\pka379.tsp,379,1151,1834,1767,3
+data\bcl380.tsp,380,1444,2317,2188,1
+data\pbl395.tsp,395,1124,1845,1713,2
+data\pbk411.tsp,411,1180,1971,1832,2
+data\pbn423.tsp,423,1201,1977,1909,2
+data\pbm436.tsp,436,1269,2066,1939,2
+data\xql662.tsp,662,2240,3637,3461,2
+data_big\xit1083.tsp,1083,3253,5182,5044,2
+data_big\icw1483.tsp,1483,4015,6647,6381,2
+data_big\djc1785.tsp,1785,5541,8867,8633,2
+data_big\dcb2086.tsp,2086,5950,9796,9438,2
+data_big\pds2566.tsp,2566,6956,11363,10989,3
